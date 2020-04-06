@@ -4,7 +4,7 @@
 
 * https://gitee.com/huangyong/rpc/tree/master
 
-![](/doc/pic/Rpc.png)
+![](/doc/pic/rpc.png)
 
 [设计](https://mubu.com/doc/6US5AgtAuT_)
 
