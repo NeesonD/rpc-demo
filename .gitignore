@@ -26,6 +26,7 @@ hs_err_pid*
 
 
 # Project exclude paths
+.idea
 /oss/oss-api/target/
 /oss/oss-client/target/
 /oss/oss-svc/target/
